@@ -4,10 +4,10 @@
 
 ### Members:
 
-Maalavika C S - Electrical Engineering, IITB \n
-Ishaan Manhar - Electrical Engineering, IITB  
 Annirudh K P - Electrical Engineering, IITB   
 Vedika Rathi - Electrical Engineering, IITB    
+Ishaan Manhar - Electrical Engineering, IITB   
+Maalavika C S - Electrical Engineering, IITB
 
 
 ### Mentor:
